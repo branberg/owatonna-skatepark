@@ -1,0 +1,2 @@
+UserAgent: *
+Disallow: /draft1.php
